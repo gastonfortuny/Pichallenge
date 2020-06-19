@@ -17,7 +17,7 @@ Estas instruciones te permitiran obtener una copia del proyecto y correrlo local
 
 ### Iniciar el servicio
 
-- Posticionata en el home del proyecto
+- Posiciónate en el home del proyecto
 - Ejecuta el siguiente comando
 
 ```
